@@ -72,6 +72,7 @@ Package.onUse(function(api) {
 
   api.addAssets([
     'public/img/loading.svg',
+    'public/img/favicon.ico',
   ], 'client');
 
   api.addFiles([
